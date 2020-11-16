@@ -1,0 +1,17 @@
+body{
+  background:white;
+}
+table{
+  margin: 20px auto;
+  border-radius: 10px;
+  color: white;
+}
+
+td{
+  width:100px;
+  height: 100px;
+ background: rgb(187, 186, 186);
+ font-size: 40px;
+ text-align: center;
+ border-radius: 10px ;
+}
